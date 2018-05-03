@@ -2,6 +2,12 @@
 tiny mqtt client (1.7 Mb gzip)
 
 ```
+1. go get github.com/knalum/umqtt
+2. go build
+3. ./umqtt
+```
+
+```
 Usage of ./mqtt-cli:
   -host string
     	Hostname of the broker
